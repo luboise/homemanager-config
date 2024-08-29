@@ -81,7 +81,7 @@
 
         # https://wiki.hyprland.org/Configuring/Variables/#decoration
         decoration = {
-          rounding = 2;
+          rounding = 50; #2;
 
           # Change transparency of focused and unfocused windows
           active_opacity = 1.0;
